@@ -62,3 +62,22 @@
 ![Imagen](IMAGENES/Ramaadios.png)
 3. Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2 , usar estos comandos:
 ![Imagen](IMAGENES/conflictoarreglado.png)
+## Listado de Ramas <br>
+1. Listar las ramas con merge y las ramas sin merge, usar estos comandos: 
+![Imagen](IMAGENES/Listadoderamas.png)
+## Arreglar conflicto <br>
+1. Arreglar el conflicto anterior y hacer un commit. 
+## En este paso deberia marcar un error pero como ya habia hecho antes un add y un commit este se arreglo.
+![Imagen](IMAGENES/Arreglar%20conflicto.png)
+1. Para arreglar el conflicto hay que hacer un add y un commit y debe aparecer lo siguiente.
+![Imagen](IMAGENES/Resolver.png)
+## Borrar rama <br>
+1. Crear un tag v0.2 con este comando.
+![Imagen](IMAGENES/Borrar%20rama%20tag.png)
+2. Borrar la rama v0.2 con este comando: 
+![Imagen](IMAGENES/Borrar%20rama%20tag.png)
+## Listado de cambios
+1. Listar los distintos commits con sus ramas y sus tags. 
+2. Acontinuacion se muestra el listado de cambios usando este comando: git log.
+
+   
