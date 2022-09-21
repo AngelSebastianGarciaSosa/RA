@@ -23,4 +23,5 @@
 ## Ahora veremos en el status para revisar que funciono
 1. Aqui se puede ver que una vez modificado el archivo el unico que detecto fue el README
 ![Imagen](IMAGENES/Comprobar%20ignorar.png)
+## Añadir Archivo 1.txt al repositorio local
 
