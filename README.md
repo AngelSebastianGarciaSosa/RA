@@ -20,4 +20,4 @@
 ![Imagen](IMAGENES/gitignore.png)
 ## Para esto escribiremos lo siguiente en el archivo .gitignore
 ![Imagen](IMAGENES/ignorar.png)
-
+## Ahora veremos en el status para revisar que funciono
