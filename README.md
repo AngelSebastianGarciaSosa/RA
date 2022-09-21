@@ -30,3 +30,5 @@
 2. Para esto se utiliza el siguiente comando. git tag -a v0.1 -m "tag v0.1"
 3. Y se comprueba escribiendo git tag
 ![Imagen](IMAGENES/tagv0.1.png)
+## Subir el tag <br>
+1. Subir los cambios al repositorio remoto.
