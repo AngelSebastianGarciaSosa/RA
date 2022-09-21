@@ -21,3 +21,6 @@
 ## Para esto escribiremos lo siguiente en el archivo .gitignore
 ![Imagen](IMAGENES/ignorar.png)
 ## Ahora veremos en el status para revisar que funciono
+1. Aqui se puede ver que una vez modificado el archivo el unico que detecto fue el README
+![Imagen](IMAGENES/Comprobar%20ignorar.png)
+
