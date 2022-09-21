@@ -76,8 +76,9 @@
 ![Imagen](IMAGENES/Borrar%20rama%20tag.png)
 2. Borrar la rama v0.2 con este comando: 
 ![Imagen](IMAGENES/Borrar%20rama%20tag.png)
-## Listado de cambios
+## Listado de cambios <br>
 1. Listar los distintos commits con sus ramas y sus tags. 
 2. Acontinuacion se muestra el listado de cambios usando este comando: git log.
+![Imagen](IMAGENES/Listacambios.png)
 
    
