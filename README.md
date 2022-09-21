@@ -81,4 +81,37 @@
 2. Acontinuacion se muestra el listado de cambios usando este comando: git log.
 ![Imagen](IMAGENES/Listacambios.png)
 
+## EXamen Parte 2 <br> <br>
+
+## Cuenta Gitbub
+1. Poner una foto en tu perfil de GitHub. 
+   ![Imagen](IMAGENES/Fotoperfil.png)
+2. Poner el doble factor de autentificación en tu cuenta de GitHub. 
+   ![Imagen](IMAGENES/Autenticar.png)
+   ![Imagen](IMAGENES/Exito.png)
+3. Añadir (si no lo has hecho aun) la clave pública (ssh) que se corresponde a tu equipo. 
+
+## Uso social de github
+1. Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y síguelos. 
+   ![Imagen](IMAGENES/choi.png)
+   ![Imagen](IMAGENES/jocelyn.png)
+   ![Imagen](IMAGENES/gero.png)
+   ![Imagen](IMAGENES/jose.png)
+2. Seguir los repositorios RA del resto de tus compañeros. 
+   
+3. Añadir una estrella a los repositorios RA del resto de tus compañeros. 
+ ![Imagen](IMAGENES/estrella%20choi.png)
+ ![Imagen](IMAGENES/estrella%20gero.png)
+ ![Imagen](IMAGENES/estrella%20joss.png)
+
+## Crear una tabla <br>
+| NOMBRE                        | GITHUB                                       |
+| -------------                 | -------------                                | 
+| AISLIN FERNANDA DIAZ AGUILAR  | https://github.com/diaz696                   |
+| JOCELYN RODRIGUEZ PONCE       | https://github.com/JocelynRdzPon             |
+| GERONIMO MARTINEZ DOMINGUEZ   |https://github.com/GeronimoMtz                |
+
+ 
+
+
    
