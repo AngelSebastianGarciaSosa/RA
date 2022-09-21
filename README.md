@@ -115,7 +115,8 @@
 ![Imagen](IMAGENES/colaborador.png)
 ## Organizacion <br>
 ![Imagen](IMAGENES/organizacion.png)
-
+## crear equipo administradores <br>
+![imagen](IMAGENES/Equipo.png)
 
  
 
