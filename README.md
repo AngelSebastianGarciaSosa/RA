@@ -24,4 +24,9 @@
 1. Aqui se puede ver que una vez modificado el archivo el unico que detecto fue el README
 ![Imagen](IMAGENES/Comprobar%20ignorar.png)
 ## Añadir Archivo 1.txt al repositorio local
-
+![Imagen](IMAGENES/archivo1.png)
+## Crear tag v0.1
+1. Crear un Tag v0.1
+2. Para esto se utiliza el siguiente comando. git tag -a v0.1 -m "tag v0.1"
+3. Y se comprueba escribiendo git tag
+![Imagen](IMAGENES/tagv0.1.png)
