@@ -32,3 +32,17 @@
 ![Imagen](IMAGENES/tagv0.1.png)
 ## Subir el tag <br>
 1. Subir los cambios al repositorio remoto.
+![Imagen](IMAGENES/agregado%20tag.png)
+2. Podemos ir a gitgub para revisar que este agregado el tag.
+![Imagen](IMAGENES/Comprobartag.png)
+## Crear una rama v0.2
+1. Crear una rama v0.2.
+   ![Imagen](IMAGENES/crear%20rama.png)
+2. Posiciona tu working directory en esta rama. 
+   ![Imagen](IMAGENES/cabio%20de%20rama.png)
+## Añadir Archivo 2.txt
+1. Añadir un fichero 2.txt en la rama v0.2. 
+![Imagen](IMAGENES/archivo%202.png)
+## Crear una rama remota v0.2
+1. Subir los cambios al repositorio remoto. 
+
