@@ -111,6 +111,12 @@
 | JOCELYN RODRIGUEZ PONCE       | https://github.com/JocelynRdzPon             |
 | GERONIMO MARTINEZ DOMINGUEZ   |https://github.com/GeronimoMtz                |
 
+## agregar colaborador
+![Imagen](IMAGENES/colaborador.png)
+## Organizacion <br>
+![Imagen](IMAGENES/organizacion.png)
+
+
  
 
 
