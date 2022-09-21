@@ -53,5 +53,12 @@
 1. Posicionarse en la rama master. 
 2. Hacer un merge de la rama v0.2 en la rama master. 
 ## Usaremos los siguientes comandos:
-
-
+![Imagen](IMAGENES/merge.png)
+## Tendremos un error pero es normal. <br>
+## Merge con conflicto <br>
+1. En la rama master poner "Hola" en el fichero Archivo1.txt y hacer commit usando los siguientes comandos. 
+![Imagen](IMAGENES/Masterhola.png)
+2. Posicionarse en la rama v0.2 y poner Adios en el archivo "Archivo1.txt" y hacer commit usando estos comandos. 
+![Imagen](IMAGENES/Ramaadios.png)
+3. Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2 , usar estos comandos:
+![Imagen](IMAGENES/conflictoarreglado.png)
