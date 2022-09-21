@@ -45,5 +45,13 @@
 ![Imagen](IMAGENES/archivo%202.png)
 ## Crear una rama remota v0.2
 1. Subir los cambios al repositorio remoto. 
+## Hay que usar los siguientes comandos.
+![Imagen](IMAGENES/Ramaremota.png)
+## Comprobacion <br>
+![Imagen](IMAGENES/ComprobacionRama.png)
+## Merge Directo <br>
+1. Posicionarse en la rama master. 
+2. Hacer un merge de la rama v0.2 en la rama master. 
+## Usaremos los siguientes comandos:
 
 
